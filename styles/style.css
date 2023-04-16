@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.LearnPiano a{
+    color: #6c757d;
+}
+.ChopinBanner address small a{
+    color: white;
+    
+}
